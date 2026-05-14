@@ -34,7 +34,7 @@ app/
 
 ## Screenshots 📱
 
-(Add your app screenshots here)
+
 
 ## Installation 🚀
 
