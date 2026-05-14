@@ -32,8 +32,6 @@ app/
  └── AndroidManifest.xml
 ```
 
-## Screenshots 📱
-
 
 
 ## Installation 🚀
